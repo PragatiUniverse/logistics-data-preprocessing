@@ -1,0 +1,504 @@
+order_id,order_date,origin_city,destination_city,carrier,shipping_mode,distance_km,weight_kg,shipping_cost_inr,promised_delivery_date,actual_delivery_date,delivery_status,customer_rating,payment_method,late_delivery
+ORD0001,2026-02-27,Hyderabad,Delhi,BlueDart,Same Day,1334.5,19.18,1494.66,2026-02-28,2026-03-02,Delayed,1.0,UPI,1.0
+ORD0002,2026-02-17,Hyderabad,Jaipur,Ecom Express,Standard,811.3,9.88,2179.13,2026-02-19,2026-02-18,Returned,2.0,Net Banking,0.0
+ORD0003,2026-06-24,Mumbai,Mumbai,Ecom Express,Standard,649.4,12.17,694.4,2026-06-27,2026-06-26,Delivered,1.0,Net Banking,0.0
+ORD0004,2026-03-05,Lucknow,Pune,India Post,Standard,1269.7,1.79,604.49,2026-03-09,2026-03-07,Delivered,3.0,UPI,0.0
+ORD0005,2026-04-30,Pune,Delhi,DTDC,Express,381.1,9.49,2344.49,2026-05-01,2026-05-01,Delivered,,UPI,0.0
+ORD0006,2026-03-29,Ahmedabad,Kolkata,DTDC,Same Day,1240.3,7.84,841.11,2026-04-03,2026-04-05,Delayed,1.0,Card,1.0
+ORD0007,2026-01-17,Lucknow,Pune,Delhivery,Same Day,901.1,30.99,1623.2,2026-01-20,2026-01-20,Delivered,2.0,Cash on Delivery,0.0
+ORD0008,2026-03-13,Chennai,Lucknow,Ecom Express,Same Day,721.9,7.83,2493.95,2026-03-15,2026-03-17,Delayed,5.0,Net Banking,1.0
+ORD0009,2026-02-16,Delhi,Kolkata,India Post,Standard,695.7,20.94,1194.06,2026-02-17,2026-02-20,Delayed,3.0,UPI,1.0
+ORD0010,2026-02-28,Pune,Mumbai,DTDC,Express,288.9,0.31,1817.74,2026-03-05,2026-03-08,Delayed,,Cash on Delivery,1.0
+ORD0011,2026-09-14,Chennai,Jaipur,India Post,Standard,279.3,26.74,1369.18,2026-09-16,2026-09-17,Delayed,5.0,UPI,1.0
+ORD0012,2026-06-15,Chennai,Hyderabad,BlueDart,Standard,1581.0,33.15,255.28,2026-06-19,2026-06-17,Delivered,4.0,UPI,0.0
+ORD0013,2026-03-06,Jaipur,Delhi,DTDC,express,1571.0,14.93,564.96,2026-03-08,2026-03-10,Delayed,5.0,Card,1.0
+ORD0014,2026-06-09,Ahmedabad,Jaipur,Ecom Express,Standard,450.0,2.43,96.64,2026-06-13,2026-06-15,Delayed,5.0,Card,1.0
+ORD0015,2026-04-23,Mumbai,Bengaluru,DTDC,Standard,927.9,9.89,1236.69,2026-04-24,2026-04-24,Delivered,5.0,Card,0.0
+ORD0016,2026-08-31,Kolkata,Hyderabad,BlueDart,Standard,1187.9,12.53,1054.26,2026-09-02,2026-09-05,Delayed,,UPI,1.0
+ORD0017,2026-02-20,Mumbai,Hyderabad,Delhivery,Standard,967.6,5.08,495.46,2026-02-21,2026-02-21,Delivered,4.0,Card,0.0
+ORD0018,2026/02/31,Jaipur,Mumbai,BlueDart,Same Day,1798.7,29.29,2423.89,2026-02-12,2026-02-15,Delayed,2.0,Card,1.0
+ORD0019,2026-07-28,Bengaluru,Delhi,Ecom Express,Standard,1773.6,9.43,1969.89,2026-08-01,2026-08-01,Delivered,4.0,Cash on Delivery,0.0
+ORD0020,2026-08-05,Delhi,Hyderabad,DTDC,Standard,1743.8,20.36,1376.09,2026-08-10,2026-08-12,Delayed,,Cash on Delivery,1.0
+ORD0021,2026-01-30,Jaipur,Delhi,BlueDart,Same Day,148.8,6.67,1505.81,2026-01-31,2026-02-01,Delayed,,Card,1.0
+ORD0022,2026-07-26,Lucknow,Bengaluru,India Post,Standard,757.5,20.51,1328.43,2026-07-27,2026-07-28,Delayed,3.0,Card,1.0
+ORD0023,2026-06-10,Chennai,Ahmedabad,DTDC,Standard,21.7,21.82,1427.15,2026-06-12,2026-06-12,Delivered,1.0,UPI,0.0
+ORD0024,2026-04-20,Mumbai,Hyderabad,DTDC,Express,288.2,29.21,1772.19,2026-04-25,2026-04-25,Delivered,5.0,UPI,0.0
+ORD0025,2026-06-03,Jaipur,Delhi,DTDC,Express,1090.7,25.17,544.83,2026-06-04,2026-06-04,Delivered,,Cash on Delivery,0.0
+ORD0026,2026-09-16,Mumbai,Kolkata,DTDC,Standard,11.4,27.03,1609.11,2026-09-20,2026-09-20,Delivered,3.0,Card,0.0
+ORD0027,2026-08-15,Bengaluru,Mumbai,BlueDart,Same Day,1627.6,19.19,2093.93,2026-08-20,2026-08-22,Delayed,5.0,Card,1.0
+ORD0028,2026-08-09,Bengaluru, ,Delhivery,Same Day,452.9,3.78,1960.19,2026-08-11,2026-08-10,Delivered,4.0,Card,0.0
+ORD0029,2026-05-02,Kolkata,Bengaluru,Delhivery,Same Day,1664.5,,1055.76,2026-05-04,2026-05-07,Delayed,,Card,1.0
+ORD0030,2026-05-17,Kolkata,Bengaluru,Ecom Express,Standard,363.2,32.16,903.41,2026-05-19,2026-05-22,Delayed,2.0,Card,1.0
+ORD0031,2026-01-13,Chennai,Pune,India Post,Express,1224.7,29.56,857.97,2026-01-15,2026-01-15,Delivered,1.0,UPI,0.0
+ORD0032,2026-05-14,Chennai,Bengaluru,BlueDart,Same Day,785.0,25.55,815.08,2026-05-16,2026-05-17,Delayed,5.0,UPI,1.0
+ORD0033,2026-07-17,Bengaluru,Jaipur,India Post,Same Day,1296.4,26.02,1691.39,2026-07-22,2026-07-21,Delivered,3.0,Net Banking,0.0
+ORD0034,2026-02-05,Mumbai,Chennai,India Post,Express,1202.1,11.55,1756.65,2026-02-08,2026-02-09,Delayed,5.0,Card,1.0
+ORD0035,2026-04-09,Delhi,Lucknow,India Post,Express,733.9,29.21,791.01,2026-04-13,2026-04-15,Delayed,2.0,Net Banking,1.0
+ORD0036,2026-06-14,Ahmedabad,Delhi,BlueDart,Express,930.2,22.23,867.89,2026-06-18,2026-06-18,Delivered,2.0,Cash on Delivery,0.0
+ORD0037,2026-04-26,Hyderabad,Ahmedabad,India Post,Standard,822.5,31.04,1458.27,2026-04-28,,In Transit,,Net Banking,
+ORD0038,2026-09-11,Mumbai,Kolkata,Delhivery,Standard,1448.4,24.42,1185.47,2026-09-15,2026-09-14,Delivered,5.0,Card,0.0
+ORD0039,2026-03-04,Jaipur,Lucknow,DTDC,Express,1104.7,25.23,1284.23,2026-03-08,2026-03-07,Delivered,5.0,Net Banking,0.0
+ORD0040,2026-03-23,Chennai,Jaipur,Ecom Express,Same Day,434.4,15.51,1796.75,2026-03-27,2026-03-27,Delivered,2.0,Cash on Delivery,0.0
+ORD0041,2026-06-21,Delhi,Hyderabad,Ecom Express,Same Day,279.3,7.65,1063.5,2026-06-24,2026-06-25,Delayed,3.0,Net Banking,1.0
+ORD0042,2026-08-01,Lucknow,Bengaluru,India Post,Express,861.2,33.01,778.09,2026-08-02,2026-08-02,Delivered,4.0,Net Banking,0.0
+ORD0043,2026-04-23,Kolkata,Pune,Ecom Express,Same Day,301.3,16.47,358.33,2026-04-27,2026-04-26,Delivered,5.0,UPI,0.0
+ORD0044,2026-07-21,Mumbai,Kolkata,Delhivery,Express,331.2,9.25,848.65,2026-07-26,2026-07-27,Delayed,4.0,Cash on Delivery,1.0
+ORD0045,2026-06-22,Chennai,Mumbai,Ecom Express,Standard,1349.5,2.01,2381.96,2026-06-26,2026-06-26,Delivered,2.0,UPI,0.0
+ORD0046,2026-01-21,Delhi,Hyderabad,Delhivery,Express,1206.7,19.83,580.1,2026-01-22,2026-01-22,Returned,,Cash on Delivery,0.0
+ORD0047,2026-07-08,Mumbai,Delhi,DTDC,Standard,1043.7,32.53,1458.58,2026-07-10,2026-07-11,Delayed,4.0,Net Banking,1.0
+ORD0048,2026-04-12,Hyderabad,Mumbai,DTDC,Same Day,1082.7,4.41,2460.34,2026-04-13,2026-04-14,Delayed,1.0,Cash on Delivery,1.0
+ORD0049,2026-08-08,Kolkata,Ahmedabad,BlueDart,Express,1729.6,22.32,2079.48,2026-08-11,2026-08-09,Delivered,,Card,0.0
+ORD0050,2026-08-11,Chennai,Lucknow,India Post,Express,839.4,28.94,1499.53,2026-08-13,2026-08-15,Delayed,3.0,Card,1.0
+ORD0051,2026-02-14,Lucknow,Kolkata,DTDC,Standard,892.3,11.51,1241.94,2026-02-17,2026-02-17,Delivered,3.0,Cash on Delivery,0.0
+ORD0052,2026-06-24,Chennai,Jaipur,BlueDart,Same Day,1706.8,3.18,1812.78,2026-06-27,2026-06-28,Delayed,4.0,Card,1.0
+ORD0053,2026-09-01,Hyderabad,Kolkata,Delhivery,Express,1196.8,13.04,1403.78,2026-09-05,2026-09-05,Delivered,3.0,Net Banking,0.0
+ORD0054,2026-06-19,Chennai,Chennai,Delhivery,Standard,1299.7,11.18,1868.77,2026-06-22,2026-06-24,Delayed,,Card,1.0
+ORD0055,2026-04-09,Lucknow,Jaipur,India Post,Express,1765.0,29.18,772.29,2026-04-11,2026-04-13,Delayed,3.0,Card,1.0
+ORD0056,2026-06-04,Chennai,Bengaluru,BlueDart,Same Day,529.4,33.05,1610.97,2026-06-05,2026-06-07,Delayed,4.0,UPI,1.0
+ORD0057,2026-01-07,Delhi,Bengaluru,DTDC,Express,209.8,2.47,1252.24,2026-01-12,2026-01-12,Delivered,5.0,UPI,0.0
+ORD0058,2026-03-19,Chennai,Mumbai,Delhivery,Standard,1006.7,14.68,1508.49,2026-03-21,2026-03-24,Delayed,5.0,Card,1.0
+ORD0059,2026-09-25,Lucknow,Kolkata,DTDC,Same Day,1119.7,21.42,1861.92,2026-09-29,2026-09-29,Delivered,2.0,Card,0.0
+ORD0060,2026-05-16,Delhi,Bengaluru,Ecom Express,Express,1242.4,16.55,125.13,2026-05-17,2026-05-17,Delivered,3.0,Cash on Delivery,0.0
+ORD0061,2026-08-21,Chennai,Lucknow,Delhivery,Express,211.0,8.02,410.77,2026-08-22,2026-08-24,Delayed,3.0,Card,1.0
+ORD0062,2026-02-06,Lucknow,Chennai,Ecom Express,Standard,846.3,10.78,1033.16,2026-02-07,2026-02-07,Delivered,3.0,Net Banking,0.0
+ORD0063,2026-08-13,Kolkata,Pune,India Post,Express,51.4,8.17,1700.4,2026-08-14,,In Transit,5.0,UPI,
+ORD0064,2026-05-18,Jaipur,Ahmedabad,DTDC,Standard,1794.5,15.37,2043.97,2026-05-23,2026-05-21,Delivered,1.0,Net Banking,0.0
+ORD0065,2026-06-28,Delhi,Pune,Ecom Express,Same Day,894.4,23.26,1028.11,2026-07-02,2026-07-02,Delivered,5.0,UPI,0.0
+ORD0066,2026-08-21,Kolkata,Jaipur,BlueDart,Same Day,1565.5,16.28,178.07,2026-08-22,2026-08-22,Delivered,5.0,Cash on Delivery,0.0
+ORD0067,2026-09-13,Chennai,Jaipur,Delhivery,Express,791.4,24.5,,2026-09-17,,In Transit,,Card,
+ORD0068,2026-03-23,Kolkata,Mumbai,Delhivery,Standard,833.3,4.29,2087.91,2026-03-26,,In Transit,4.0,Cash on Delivery,
+ORD0069,2026-09-18,Hyderabad,Ahmedabad,India Post,Standard,693.5,32.28,1292.73,2026-09-21,2026-09-21,Delivered,,UPI,0.0
+ORD0070,2026-05-22,Bengaluru,Chennai,DTDC,Same Day,1046.0,23.17,2169.21,2026-05-26,2026-05-26,Delivered,4.0,Net Banking,0.0
+ORD0071,2026-06-26,Kolkata,Ahmedabad,DTDC,Standard,1765.5,8.51,985.19,2026-06-29,2026-06-30,Delayed,4.0,UPI,1.0
+ORD0072,2026-06-12,Kolkata,Kolkata,Delhivery,Express,1736.9,4.59,2414.94,2026-06-16,2026-06-18,Delayed,3.0,UPI,1.0
+ORD0073,2026-08-14,Bengaluru,Delhi,Ecom Express,Same Day,1746.1,2.8,1963.64,2026-08-15,2026-08-16,Delayed,3.0,Cash on Delivery,1.0
+ORD0074,2026-07-23,Jaipur,Kolkata,DTDC,Same Day,1295.1,26.63,2186.7,2026-07-24,2026-07-27,Delayed,,UPI,1.0
+ORD0075,2026-05-01,Mumbai,Mumbai,Ecom Express,Standard,1250.7,31.64,157.91,2026-05-04,2026-05-03,Delivered,1.0,Cash on Delivery,0.0
+ORD0076,2026-07-03,Lucknow,Delhi,Delhivery,Standard,146.7,30.51,1566.39,2026-07-06,2026-07-06,Delivered,2.0,Net Banking,0.0
+ORD0077,2026-03-15,Bengaluru,Ahmedabad,DTDC,Same Day,986.1,2.77,2365.55,2026-03-17,2026-03-17,Delivered,5.0,Cash on Delivery,0.0
+ORD0078,2026-08-06,Kolkata,Ahmedabad,BlueDart,Standard,689.5,12.69,771.37,2026-08-09,2026-08-09,Delivered,,Cash on Delivery,0.0
+ORD0079,2026-01-12,Bengaluru,Lucknow,Ecom Express,Express,1397.5,8.21,2013.74,2026-01-16,,In Transit,2.0,Card,
+ORD0080,2026-05-09,Bengaluru,Chennai,Ecom Express,Standard,1045.3,25.69,266.28,2026-05-11,2026-05-13,Delayed,3.0,Cash on Delivery,1.0
+ORD0081,2026-08-01,Pune,Jaipur,India Post,Express,1495.7,9.14,2069.61,2026-08-03,2026-08-02,Delivered,4.0,Cash on Delivery,0.0
+ORD0082,2026-06-23,Hyderabad,Kolkata,India Post,Express,167.1,13.93,694.25,2026-06-24,2026-06-24,Delivered,1.0,Net Banking,0.0
+ORD0083,2026-07-08,Pune,Mumbai,Delhivery,Express,-49.9,30.97,1423.26,2026-07-11,2026-07-12,Delayed,5.0,Card,1.0
+ORD0084,2026-02-02,Kolkata,Mumbai,Delhivery,Standard,1703.5,10.79,1254.39,2026-02-06,2026-02-08,Delayed,1.0,Card,1.0
+ORD0085,2026-03-11,Jaipur,Kolkata,India Post,Same Day,1309.2,31.01,1652.83,2026-03-15,2026-03-15,Delivered,4.0,Net Banking,0.0
+ORD0086,2026-05-24,Ahmedabad,Ahmedabad,Delhivery,Express,183.3,24.06,1381.66,2026-05-25,2026-05-27,Delayed,,Cash on Delivery,1.0
+ORD0087,2026-02-01,Ahmedabad,Mumbai,Delhivery,Same Day,1152.9,33.99,169.17,2026-02-05,2026-02-05,Delivered,3.0,Card,0.0
+ORD0088,2026-03-06,Jaipur,Hyderabad,India Post,Standard,1464.4,8.31,1946.07,2026-03-11,,In Transit,5.0,UPI,
+ORD0089,2026-05-22,Mumbai,Bengaluru,Delhivery,Standard,648.0,27.64,1490.63,2026-05-24,2026-05-23,Delivered,1.0,Card,0.0
+ORD0090,2026-05-16,Mumbai,Ahmedabad,Ecom Express,Express,926.3,4.0,1281.92,2026-05-17,2026-05-17,Delivered,5.0,UPI,0.0
+ORD0091,2026-09-24,Ahmedabad,Kolkata,Ecom Express,Same Day,198.8,24.99,1133.95,2026-09-27,2026-09-27,Returned,1.0,Cash on Delivery,0.0
+ORD0092,2026-03-17,Jaipur,Pune,Ecom Express,Same Day,957.3,15.99,1531.32,2026-03-18,2026-03-18,Delivered,1.0,UPI,0.0
+ORD0093,2026-04-21,Ahmedabad,Kolkata,Ecom Express,Same Day,175.7,15.05,1677.84,2026-04-25,2026-04-25,Delivered,3.0,Card,0.0
+ORD0094,2026-08-31,Mumbai,Pune,Delhivery,Same Day,112.7,,1423.93,2026-09-01,2026-09-01,Delivered,,UPI,0.0
+ORD0095,2026-07-30,Kolkata,Bengaluru,DTDC,Same Day,565.8,3.81,1290.7,2026-08-02,2026-08-05,Delayed,2.0,Net Banking,1.0
+ORD0096,2026-04-25,Chennai,Lucknow,Delhivery,Express,1522.1,34.11,2054.24,2026-04-26,2026-04-26,Delivered,5.0,UPI,0.0
+ORD0097,2026-05-17,Pune,Pune,BlueDart,Standard,1566.4,19.91,1028.93,2026-05-18,2026-05-18,Delivered,2.0,UPI,0.0
+ORD0098,2026-02-16,Delhi,Pune,DTDC,Same Day,587.3,32.96,1508.73,2026-02-21,2026-02-20,Delivered,1.0,Card,0.0
+ORD0099,2026-03-22,Kolkata,Ahmedabad,India Post,Express,748.5,7.7,1302.81,2026-03-27,2026-03-25,Delivered,3.0,Net Banking,0.0
+ORD0100,2026-02-26,Ahmedabad,Jaipur,DTDC,Standard,400.8,34.46,179.49,2026-03-01,2026-03-03,Delayed,2.0,Cash on Delivery,1.0
+ORD0101,2026-04-19,Pune,Mumbai,BlueDart,Express,1345.9,6.31,978.41,2026-04-21,2026-04-24,Delayed,,Card,1.0
+ORD0102,2026-09-14,Pune,Mumbai,Ecom Express,Same Day,80.9,0.85,2306.45,2026-09-19,2026-09-22,Delayed,3.0,Net Banking,1.0
+ORD0103,2026-07-27,Pune,Delhi,India Post,Express,1498.5,32.21,261.36,2026-07-31,2026-07-31,Returned,1.0,Card,0.0
+ORD0104,2026-08-12,Chennai,Pune,Delhivery,Express,1403.5,2.86,1599.57,2026-08-17,2026-08-17,Delivered,5.0,Card,0.0
+ORD0105,2026-06-28,Delhi,Hyderabad,BlueDart,Standard,464.5,6.24,420.3,2026-07-01,2026-07-03,Delayed,,UPI,1.0
+ORD0106,2026-04-01,Ahmedabad,Lucknow,India Post,Express,1556.3,22.03,415.6,2026-04-05,2026-04-05,Delivered,1.0,Net Banking,0.0
+ORD0107,2026-08-15,Bengaluru,Pune,India Post,Standard,562.2,15.93,184.67,2026-08-18,2026-08-21,Delayed,3.0,UPI,1.0
+ORD0108,2026-02-16,Ahmedabad,Lucknow,India Post,Same Day,1613.1,15.85,2033.1,2026-02-21,2026-02-22,Delayed,,Card,1.0
+ORD0109,2026-06-14,Ahmedabad,Mumbai,DTDC,Same Day,156.4,22.69,141.09,2026-06-19,2026-06-19,Delivered,,Net Banking,0.0
+ORD0110,2026-08-13,Pune,Pune,DTDC,Express,738.7,11.98,1512.81,2026-08-18,2026-08-19,Delayed,,Cash on Delivery,1.0
+ORD0111,2026-02-03,Chennai,Lucknow,Delhivery,Express,151.3,23.29,2295.61,2026-02-06,2026-02-04,Delivered,3.0,Net Banking,0.0
+ORD0112,2026-03-08,Chennai,Jaipur,Ecom Express,Same Day,1426.0,28.5,1690.14,2026-03-13,2026-03-15,Delayed,,UPI,1.0
+ORD0113,2026-08-05,Chennai,Delhi,Delhivery,Express,1706.1,17.12,601.16,2026-08-10,,In Transit,2.0,Card,
+ORD0114,2026-02-09,Jaipur,Jaipur,India Post,Standard,1193.2,30.7,1562.27,2026-02-12,2026-02-15,Delayed,5.0,Net Banking,1.0
+ORD0115,2026-03-20,Delhi,Ahmedabad,BlueDart,Express,658.9,25.24,2425.34,2026-03-22,2026-03-21,Delivered,5.0,Cash on Delivery,0.0
+ORD0116,2026-08-18,Ahmedabad, ,DTDC,Same Day,1705.1,34.46,1178.42,2026-08-20,2026-08-21,Delayed,3.0,Net Banking,1.0
+ORD0117,2026-09-15,Lucknow,Delhi,DTDC,Standard,1155.9,30.62,1406.4,2026-09-20,2026-09-20,Delivered,1.0,UPI,0.0
+ORD0118,2026-05-26,Ahmedabad,Jaipur,Delhivery,Express,169.6,31.89,2050.01,2026-05-27,2026-05-30,Delayed,3.0,UPI,1.0
+ORD0119,2026-08-01,Mumbai,Pune,Delhivery,Standard,577.0,3.65,1799.6,2026-08-02,2026-08-02,Delivered,3.0,Card,0.0
+ORD0120,2026-03-12,Delhi,Ahmedabad,Ecom Express,Same Day,14.4,2.96,673.29,2026-03-13,2026-03-13,Delivered,2.0,Net Banking,0.0
+ORD0121,2026-02-26,Kolkata,Lucknow,Ecom Express,Standard,204.0,31.7,1509.99,2026-03-01,2026-02-28,Delivered,1.0,Card,0.0
+ORD0122,2026-03-15,Pune,Hyderabad,India Post,Express,341.2,23.45,1330.15,2026-03-18,,In Transit,3.0,UPI,
+ORD0123,2026-09-27,Jaipur,Jaipur,BlueDart,Express,1572.6,1.71,994.79,2026-10-02,2026-10-03,Delayed,3.0,Cash on Delivery,1.0
+ORD0124,2026-01-09,Hyderabad,Mumbai,India Post,Same Day,1363.2,4.84,,2026-01-12,,In Transit,3.0,Card,
+ORD0125,2026-08-26,Delhi,Mumbai,Ecom Express,Standard,531.7,1.72,534.7,2026-08-30,2026-09-01,Delayed,,Cash on Delivery,1.0
+ORD0126,2026-06-08,Chennai,Bengaluru,Delhivery,Express,645.8,27.37,2170.53,2026-06-13,2026-06-13,Delivered,3.0,Cash on Delivery,0.0
+ORD0127,2026-03-05,Kolkata,Pune,Delhivery,Express,1247.3,12.98,2002.35,2026-03-08,2026-03-08,Delivered,3.0,UPI,0.0
+ORD0128,2026-08-06,Jaipur,Chennai,DTDC,Standard,148.7,23.2,797.45,2026-08-07,2026-08-07,Delivered,5.0,Net Banking,0.0
+ORD0129,2026-03-27,Pune,Lucknow,Ecom Express,Express,1152.8,27.74,185.81,2026-03-31,2026-03-31,Delivered,,Net Banking,0.0
+ORD0130,2026-07-06,Delhi,Bengaluru,Delhivery,Same Day,1222.2,15.45,354.89,2026-07-11,2026-07-14,Delayed,2.0,Cash on Delivery,1.0
+ORD0131,2026-07-05,Delhi,Ahmedabad,DTDC,Express,801.9,2.88,383.04,2026-07-09,,In Transit,3.0,Net Banking,
+ORD0132,2026-06-10,Delhi,Ahmedabad,India Post,Express,1644.8,4.3,1947.54,2026-06-13,2026-06-12,Returned,,Net Banking,0.0
+ORD0133,2026-04-20,Hyderabad,Mumbai,Delhivery,Standard,816.4,31.47,1137.75,2026-04-25,2026-04-25,Delivered,1.0,Cash on Delivery,0.0
+ORD0134,2026-06-27,Chennai,Delhi,Delhivery,Express,918.2,4.42,538.41,2026-06-28,2026-06-29,Delayed,2.0,Card,1.0
+ORD0135,2026-09-10,Jaipur,Delhi,India Post,Standard,123.0,14.06,1805.07,2026-09-11,2026-09-11,Delivered,4.0,Net Banking,0.0
+ORD0136,2026-07-29,Mumbai,Ahmedabad,Ecom Express,Same Day,933.7,4.67,2080.33,2026-08-03,2026-08-01,Delivered,5.0,Card,0.0
+ORD0137,2026-03-08,Bengaluru,Mumbai,India Post,Standard,550.9,5.84,2339.78,2026-03-12,2026-03-13,Delayed,2.0,Cash on Delivery,1.0
+ORD0138,2026-09-23,Hyderabad,Jaipur,DTDC,Standard,1126.9,21.58,274.37,2026-09-26,,In Transit,,Card,
+ORD0139,2026-03-20,Lucknow,Pune,India Post,Standard,1486.3,1.19,156.61,2026-03-22,2026-03-24,Delayed,,Cash on Delivery,1.0
+ORD0140,2026-04-18,Jaipur,Chennai,DTDC,Express,444.6,28.3,1041.96,2026-04-23,2026-04-23,Returned,4.0,UPI,0.0
+ORD0141,2026-01-31,Pune,Lucknow,Delhivery,Express,1551.4,11.31,2470.6,2026-02-02,2026-02-02,Delivered,3.0,Net Banking,0.0
+ORD0142,2026-03-08,Pune,Hyderabad,Ecom Express,Standard,485.1,8.83,282.67,2026-03-11,2026-03-12,delayed,3.0,Net Banking,1.0
+ORD0143,2026-08-03,Pune,Lucknow,DTDC,Standard,1374.8,17.54,1308.65,2026-08-05,2026-08-08,Delayed,4.0,Cash on Delivery,1.0
+ORD0144,2026-09-12,Hyderabad,Hyderabad,India Post,Express,92.3,9.99,1511.91,2026-09-13,2026-09-13,Delivered,,Net Banking,0.0
+ORD0145,2026-05-27,Chennai,Pune,Ecom Express,Express,86.2,1.98,1424.26,2026-06-01,2026-05-30,Delivered,3.0,Cash on Delivery,0.0
+ORD0146,2026-02-07,Jaipur,Chennai,India Post,Same Day,1101.8,4.68,282.35,2026-02-11,2026-02-12,Delayed,3.0,Cash on Delivery,1.0
+ORD0147,2026-07-07,Bengaluru,Bengaluru,BlueDart,Standard,1285.9,28.18,1319.96,2026-07-09,2026-07-08,Delivered,2.0,Card,0.0
+ORD0148,2026-06-17,Chennai,Lucknow,DTDC,Same Day,1491.8,18.73,1784.96,2026-06-22,2026-06-22,Delivered,3.0,Net Banking,0.0
+ORD0149,2026-01-09,Lucknow,Chennai,BlueDart,Same Day,856.9,33.85,1967.03,2026-01-12,2026-01-12,Delivered,5.0,Card,0.0
+ORD0150,2026-01-27,Lucknow,Kolkata,Delhivery,Same Day,439.7,20.13,1764.78,2026-02-01,2026-02-01,Delivered,2.0,UPI,0.0
+ORD0151,2026-08-14,Kolkata,Jaipur,India Post,express,1571.7,25.81,197.9,2026-08-17,2026-08-17,Delivered,2.0,Card,0.0
+ORD0152,2026-06-16,Delhi,Ahmedabad,India Post,Express,985.6,23.72,2175.09,2026-06-20,2026-06-21,Delayed,,Cash on Delivery,1.0
+ORD0153,2026-09-05,Chennai,Chennai,Delhivery,Same Day,1270.5,11.23,901.31,2026-09-07,2026-09-06,Delivered,,Cash on Delivery,0.0
+ORD0154,2026-05-28,Kolkata,Kolkata,DTDC,Standard,526.4,10.21,1798.22,2026-05-29,2026-05-30,Delayed,3.0,Net Banking,1.0
+ORD0155,2026-05-12,Jaipur,Chennai,Delhivery,Standard,1110.1,20.62,640.23,2026-05-16,2026-05-15,Delivered,,Card,0.0
+ORD0156,2026-04-30,Mumbai,Delhi,BlueDart,Same Day,1760.3,5.7,1647.85,2026-05-01,2026-05-01,Delivered,,Net Banking,0.0
+ORD0157,2026-04-13,Mumbai,Lucknow,Delhivery,Same Day,1330.9,29.79,136.57,2026-04-16,2026-04-16,Delivered,2.0,Net Banking,0.0
+ORD0158,2026-04-01,Ahmedabad,Delhi,DTDC,Standard,21.6,19.97,308.42,2026-04-02,2026-04-05,Delayed,3.0,Cash on Delivery,1.0
+ORD0159,2026-08-21,Delhi,Jaipur,Ecom Express,Express,351.1,4.12,443.92,2026-08-26,2026-08-27,Delayed,4.0,Cash on Delivery,1.0
+ORD0160,2026-04-06,Chennai,Lucknow,Delhivery,Standard,1101.7,22.43,1040.48,2026-04-07,2026-04-09,Delayed,4.0,Cash on Delivery,1.0
+ORD0161,2026-02-14,Delhi,Ahmedabad,DTDC,Standard,17.3,13.55,1141.74,2026-02-18,2026-02-20,Delayed,3.0,Cash on Delivery,1.0
+ORD0162,2026-06-04,Chennai,Pune,Delhivery,Standard,1203.7,16.4,437.1,2026-06-09,2026-06-11,Delayed,,Cash on Delivery,1.0
+ORD0163,2026-03-02,Delhi,Ahmedabad,Delhivery,Express,1347.2,21.28,1065.9,2026-03-05,2026-03-05,Delivered,5.0,Net Banking,0.0
+ORD0164,2026-04-22,Mumbai,Jaipur,Ecom Express,Same Day,1268.3,2.92,1430.03,2026-04-24,2026-04-26,Delayed,1.0,Card,1.0
+ORD0165,2026-03-18,Hyderabad,Lucknow,Ecom Express,Standard,1618.5,15.7,181.59,2026-03-20,2026-03-20,Delivered,2.0,Net Banking,0.0
+ORD0166,2026-08-22,Chennai,Bengaluru,Ecom Express,Express,1470.5,26.15,1464.75,2026-08-27,2026-08-25,Delivered,1.0,Net Banking,0.0
+ORD0167,2026-06-26,Mumbai,Ahmedabad,BlueDart,Express,738.9,26.96,1925.11,2026-06-27,2026-06-28,Delayed,,Net Banking,1.0
+ORD0168,2026-07-11,Kolkata,Mumbai,India Post,Standard,1178.1,12.3,483.15,2026-07-15,2026-07-15,Delivered,5.0,Net Banking,0.0
+ORD0169,2026-09-28,Bengaluru,Bengaluru,DTDC,Express,1213.9,19.15,1350.9,2026-09-30,2026-10-02,Delayed,2.0,Card,1.0
+ORD0170,2026-08-24,Mumbai,Bengaluru,Ecom Express,Same Day,1380.1,30.95,83.41,2026-08-27,2026-08-26,Delivered,2.0,UPI,0.0
+ORD0171,2026-02-21,Bengaluru,Hyderabad,BlueDart,Express,792.9,18.98,1897.02,2026-02-26,2026-02-24,Delivered,1.0,Card,0.0
+ORD0172,2026-09-15,Pune,Lucknow,India Post,Same Day,1474.0,8.44,2196.21,2026-09-18,2026-09-17,Delivered,,Card,0.0
+ORD0173,2026-07-31,Lucknow,Delhi,Ecom Express,Same Day,894.6,34.04,2356.59,2026-08-03,,In Transit,,Net Banking,
+ORD0174,2026-09-26,Delhi,Chennai,Ecom Express,Standard,1359.2,16.68,2130.13,2026-09-29,2026-10-01,Delayed,3.0,Card,1.0
+ORD0175,2026-08-26,Kolkata,Jaipur,India Post,Standard,702.2,9.07,855.8,2026-08-27,2026-08-28,Delayed,1.0,Net Banking,1.0
+ORD0176,2026-07-09,Hyderabad,Bengaluru,DTDC,Express,1214.2,21.18,2189.74,2026-07-10,2026-07-11,Delayed,2.0,Card,1.0
+ORD0177,2026-09-03,Chennai,Bengaluru,Delhivery,Standard,1731.9,4.28,2498.95,2026-09-05,2026-09-08,Delayed,4.0,Card,1.0
+ORD0178,2026-04-15,Kolkata,Ahmedabad,India Post,Same Day,649.9,9.3,1303.96,2026-04-19,2026-04-18,Delivered,4.0,Net Banking,0.0
+ORD0179,2026-02-20,Hyderabad,Pune,DTDC,Express,87.1,30.27,1864.77,2026-02-24,2026-02-27,Delayed,1.0,Cash on Delivery,1.0
+ORD0180,2026-08-02,Lucknow,Hyderabad,Ecom Express,Same Day,1180.0,24.03,676.74,2026-08-05,2026-08-04,Delivered,4.0,Net Banking,0.0
+ORD0181,2026-08-24,Delhi,Delhi,India Post,Express,335.4,31.15,2476.24,2026-08-26,2026-08-28,Delayed,1.0,UPI,1.0
+ORD0182,2026-02-08,Delhi,Hyderabad,BlueDart,Same Day,276.1,7.81,1164.5,2026-02-09,,In Transit,1.0,Net Banking,
+ORD0183,2026-09-07,Bengaluru,Jaipur,DTDC,Same Day,1759.6,0.8,2041.3,2026-09-08,2026-09-08,Delivered,,Net Banking,0.0
+ORD0184,2026-04-02,Lucknow,Jaipur,DTDC,Express,484.8,14.01,960.84,2026-04-03,2026-04-03,Delivered,4.0,Net Banking,0.0
+ORD0185,2026-05-05,Bengaluru,Mumbai,Ecom Express,Express,682.0,16.76,1608.22,2026-05-07,2026-05-07,Delivered,,Card,0.0
+ORD0186,2026-02-12,Pune,Lucknow,BlueDart,Same Day,1654.9,8.2,2257.63,2026-02-16,2026-02-19,Delayed,,Net Banking,1.0
+ORD0187,2026-05-19,Jaipur,Lucknow,BlueDart,Standard,1672.1,11.14,2405.41,2026-05-20,2026-05-20,Delivered,5.0,Card,0.0
+ORD0188,2026-07-23,Kolkata,Jaipur,DTDC,Express,1361.3,5.07,2471.71,2026-07-24,2026-07-24,Delivered,,UPI,0.0
+ORD0189,2026-09-14,Mumbai,Pune,India Post,Same Day,1719.0,14.01,1944.08,2026-09-17,2026-09-15,Delivered,1.0,Cash on Delivery,0.0
+ORD0190,2026-08-19,Kolkata,Delhi,India Post,Same Day,687.2,27.07,770.16,2026-08-23,2026-08-22,Delivered,2.0,UPI,0.0
+ORD0191,2026-02-12,Delhi,Kolkata,DTDC,Express,196.3,0.38,801.8,2026-02-15,2026-02-14,Delivered,3.0,Cash on Delivery,0.0
+ORD0192,2026-02-22,Jaipur,Jaipur,Ecom Express,Standard,52.1,12.52,273.47,2026-02-24,2026-02-23,Delivered,5.0,Cash on Delivery,0.0
+ORD0193,2026-07-17,Jaipur,Hyderabad,India Post,Same Day,309.4,13.45,385.85,2026-07-18,2026-07-18,Delivered,3.0,Cash on Delivery,0.0
+ORD0194,2026-09-10,Chennai,Ahmedabad,BlueDart,Express,456.8,8.78,1579.46,2026-09-12,2026-09-11,Delivered,5.0,Card,0.0
+ORD0195,2026-08-23,Pune,Lucknow,Ecom Express,Express,795.2,15.19,,2026-08-24,2026-08-24,Delivered,,Card,0.0
+ORD0196,2026-06-03,Hyderabad,Ahmedabad,DTDC,Standard,1736.4,33.91,760.51,2026-06-06,2026-06-07,Delayed,,Net Banking,1.0
+ORD0197,2026-05-05,Pune,Mumbai,India Post,Standard,1068.0,19.19,1718.6,2026-05-08,2026-05-08,Delivered,5.0,UPI,0.0
+ORD0198,2026-08-25,Mumbai,Kolkata,Ecom Express,Standard,1141.8,8.62,1662.02,2026-08-27,2026-08-27,delayed,,Net Banking,0.0
+ORD0199,2026-07-13,Kolkata,Jaipur,India Post,Same Day,755.8,1.48,2422.49,2026-07-14,2026-07-14,Delivered,,UPI,0.0
+ORD0200,2026-02-25,Delhi,Lucknow,BlueDart,Same Day,1770.6,23.78,1026.06,2026-02-27,2026-03-01,Delayed,3.0,Net Banking,1.0
+ORD0201,2026-02-24,Jaipur,Jaipur,India Post,Same Day,1037.5,15.71,1005.23,2026-02-25,2026-02-25,Delivered,,Card,0.0
+ORD0202,2026-06-26,Mumbai,Mumbai,Delhivery,Express,564.8,16.05,552.86,2026-06-27,2026-06-27,Delivered,4.0,Cash on Delivery,0.0
+ORD0203,2026-09-01,Mumbai,Chennai,BlueDart,Same Day,211.6,29.75,1635.77,2026-09-02,2026-09-02,Delivered,,Card,0.0
+ORD0204,2026-05-05,Kolkata,Ahmedabad,Delhivery,Express,1135.4,6.69,1658.69,2026-05-10,2026-05-09,Delivered,4.0,UPI,0.0
+ORD0205,2026-04-12,Bengaluru,Hyderabad,Delhivery,Express,1355.4,28.34,198.59,2026-04-16,2026-04-17,Delayed,1.0,Card,1.0
+ORD0206,2026-07-07,Ahmedabad,Jaipur,DTDC,Same Day,702.6,13.86,325.44,2026-07-10,2026-07-09,Delivered,3.0,Net Banking,0.0
+ORD0207,2026-03-30,Delhi,Pune,BlueDart,Standard,553.2,6.57,1747.39,2026-04-02,2026-04-03,Delayed,5.0,Net Banking,1.0
+ORD0208,2026-08-03,Ahmedabad,Jaipur,Delhivery,Same Day,304.5,10.25,504.33,2026-08-08,2026-08-07,Delivered,4.0,UPI,0.0
+ORD0209,2026-07-03,Jaipur,Jaipur,Ecom Express,Express,1234.0,14.66,2106.93,2026-07-04,2026-07-04,Delivered,4.0,Card,0.0
+ORD0210,2026-02-12,Bengaluru,Chennai,Delhivery,Same Day,523.2,27.37,1433.67,2026-02-17,2026-02-15,Delivered,4.0,UPI,0.0
+ORD0211,2026-02-28,Pune,Jaipur,BlueDart,Same Day,797.3,7.81,1088.75,2026-03-03,2026-03-06,Delayed,,Card,1.0
+ORD0212,2026-06-02,Mumbai,Ahmedabad,BlueDart,Standard,381.7,25.87,1736.82,2026-06-03,2026-06-03,Delivered,,Net Banking,0.0
+ORD0213,2026-03-26,Bengaluru,Lucknow,DTDC,Same Day,-509.5,18.95,839.57,2026-03-31,2026-03-30,Delivered,,Cash on Delivery,0.0
+ORD0214,2026-05-29,Mumbai,Delhi,Ecom Express,Standard,1786.5,30.37,356.51,2026-06-03,2026-06-03,Delivered,2.0,Card,0.0
+ORD0215,2026-03-16,Kolkata,Ahmedabad,Delhivery,Same Day,1140.2,22.05,966.05,2026-03-19,2026-03-22,Delayed,1.0,UPI,1.0
+ORD0216,2026-07-26,Pune,Ahmedabad,Ecom Express,Express,1049.6,30.44,2124.8,2026-07-31,2026-08-02,Delayed,1.0,Net Banking,1.0
+ORD0217,2026-07-03,Hyderabad,Kolkata,Delhivery,Express,487.0,29.03,874.19,2026-07-04,2026-07-07,Delayed,5.0,Card,1.0
+ORD0218,2026-09-06,Bengaluru,Mumbai,Ecom Express,Standard,228.0,30.05,1128.36,2026-09-09,2026-09-11,Delayed,1.0,Net Banking,1.0
+ORD0219,2026-04-14,Chennai,Mumbai,DTDC,Express,152.9,23.32,1638.08,2026-04-16,2026-04-18,Delayed,1.0,Net Banking,1.0
+ORD0220,2026-06-06,Bengaluru,Hyderabad,Ecom Express,Standard,243.2,8.07,1714.36,2026-06-08,2026-06-08,Delivered,1.0,UPI,0.0
+ORD0221,2026-06-25,Delhi,Ahmedabad,BlueDart,Standard,692.6,25.63,296.46,2026-06-26,2026-06-29,Delayed,3.0,Cash on Delivery,1.0
+ORD0222,2026-06-03,Delhi,Delhi,BlueDart,Same Day,1016.1,21.44,447.91,2026-06-05,2026-06-05,Delivered,3.0,Card,0.0
+ORD0223,2026-03-19,Hyderabad,Mumbai,BlueDart,Standard,1355.6,20.72,987.8,2026-03-23,2026-03-24,Delayed,4.0,Cash on Delivery,1.0
+ORD0224,2026-03-13,Lucknow,Lucknow,India Post,Express,1403.3,24.23,2126.58,2026-03-15,2026-03-15,Delivered,,Cash on Delivery,0.0
+ORD0225,2026-04-16,Kolkata,Chennai,BlueDart,Standard,893.3,4.12,1271.48,2026-04-21,2026-04-22,Delayed,5.0,UPI,1.0
+ORD0226,2026-09-28,Lucknow,Kolkata,DTDC,Same Day,1230.9,26.74,2388.18,2026-09-29,2026-09-29,Delivered,1.0,UPI,0.0
+ORD0227,2026-02-04,Kolkata,Jaipur,DTDC,Same Day,1284.2,26.9,1084.88,2026-02-05,2026-02-05,Delivered,4.0,UPI,0.0
+ORD0228,2026-03-20,Hyderabad,Delhi,India Post,Express,706.4,22.27,2093.76,2026-03-23,2026-03-21,Delivered,,UPI,0.0
+ORD0229,2026-06-08,Hyderabad,Bengaluru,Delhivery,Standard,1664.7,4.24,1548.19,2026-06-12,2026-06-14,Delayed,1.0,Cash on Delivery,1.0
+ORD0230,2026-03-31,Delhi,Ahmedabad,DTDC,Same Day,933.4,28.82,681.45,2026-04-01,2026-04-01,Delivered,3.0,Card,0.0
+ORD0231,2026-05-18,Pune,Kolkata,DTDC,Same Day,119.7,24.99,1460.68,2026-05-19,2026-05-22,Delayed,1.0,Net Banking,1.0
+ORD0232,2026-08-22,Lucknow,Delhi,DTDC,Standard,462.9,3.78,1453.95,2026-08-27,,In Transit,,UPI,
+ORD0233,2026-04-27,Bengaluru,Hyderabad,BlueDart,Express,658.3,32.22,484.35,2026-05-02,,In Transit,1.0,Net Banking,
+ORD0234,2026-04-25,Chennai,Mumbai,India Post,Express,219.3,23.63,174.31,2026-04-28,2026-04-27,Delivered,2.0,UPI,0.0
+ORD0235,2026-07-25,Chennai,Pune,BlueDart,Same Day,824.9,13.04,760.87,2026-07-26,2026-07-26,Delivered,3.0,Card,0.0
+ORD0236,2026-08-26,Hyderabad,Jaipur,Delhivery,Standard,16.4,14.47,617.01,2026-08-29,2026-08-30,Delayed,3.0,UPI,1.0
+ORD0237,2026-06-21,Chennai,Mumbai,Delhivery,Same Day,1769.7,14.81,2404.71,2026-06-22,2026-06-25,Delayed,2.0,Cash on Delivery,1.0
+ORD0238,2026-02-17,Pune,Ahmedabad,BlueDart,Same Day,176.6,4.85,2058.01,2026-02-18,2026-02-18,Delivered,1.0,UPI,0.0
+ORD0239,2026-08-11,Kolkata,Pune,DTDC,Express,493.2,2.8,542.66,2026-08-13,2026-08-12,Delivered,5.0,UPI,0.0
+ORD0240,2026-03-21,Mumbai,Jaipur,DTDC,Standard,816.2,16.32,2137.84,2026-03-22,2026-03-22,Delivered,1.0,Card,0.0
+ORD0241,2026-06-05,Delhi,Mumbai,Delhivery,Express,716.3,1.9,778.65,2026-06-10,2026-06-08,Delivered,2.0,UPI,0.0
+ORD0242,2026-07-27,Hyderabad,Mumbai,Ecom Express,Standard,1448.0,5.06,74.35,2026-07-31,2026-08-01,Delayed,2.0,Card,1.0
+ORD0243,2026-04-12,Mumbai,Lucknow,India Post,Express,1651.8,2.81,2493.03,2026-04-16,2026-04-16,Delivered,2.0,Net Banking,0.0
+ORD0244,2026-03-07,Pune,Mumbai,BlueDart,Express,95.9,32.36,1108.4,2026-03-08,2026-03-11,Delayed,,Net Banking,1.0
+ORD0245,2026-09-12,Hyderabad,Delhi,DTDC,Express,805.6,5.37,1552.63,2026-09-13,2026-09-13,Delivered,5.0,Card,0.0
+ORD0246,2026-06-01,Mumbai,Chennai,Ecom Express,Standard,757.5,22.56,2002.12,2026-06-05,2026-06-05,Delivered,2.0,UPI,0.0
+ORD0247,2026-07-15,Lucknow,Jaipur,DTDC,Express,490.4,1.11,1510.92,2026-07-18,2026-07-18,Delivered,1.0,Cash on Delivery,0.0
+ORD0248,2026-01-30,Lucknow,Hyderabad,Delhivery,Standard,449.9,8.59,1355.21,2026-02-03,2026-02-04,Delayed,,UPI,1.0
+ORD0249,2026-04-23,Kolkata,Pune,Delhivery,Standard,429.6,11.27,1857.05,2026-04-28,2026-05-01,Delayed,3.0,UPI,1.0
+ORD0250,2026-06-30,Hyderabad,Ahmedabad,India Post,Express,320.1,1.52,182.89,2026-07-05,2026-07-06,Delayed,5.0,Card,1.0
+ORD0251,2026-01-11,Lucknow,Hyderabad,Delhivery,Express,1291.9,32.17,2117.72,2026-01-16,,In Transit,3.0,UPI,
+ORD0252,2026-01-12,Delhi,Mumbai,India Post,Express,1729.2,13.2,2357.42,2026-01-14,2026-01-15,Delayed,4.0,UPI,1.0
+ORD0253,2026-06-22,Kolkata,Ahmedabad,DTDC,Standard,1274.4,19.76,2228.97,2026-06-25,2026-06-25,Delivered,5.0,Cash on Delivery,0.0
+ORD0254,2026-04-25,Chennai,Chennai,Delhivery,Standard,1313.3,33.22,2374.05,2026-04-30,2026-05-03,Delayed,4.0,UPI,1.0
+ORD0255,2026-04-04,Hyderabad,Lucknow,BlueDart,Express,257.5,26.14,629.28,2026-04-09,2026-04-09,Delivered,3.0,Card,0.0
+ORD0256,2026-02-15,Hyderabad,Hyderabad,BlueDart,Express,465.7,3.96,48.15,2026-02-18,,In Transit,4.0,Net Banking,
+ORD0257,2026-08-03,Jaipur,Kolkata,BlueDart,Express,1420.8,20.32,1906.49,2026-08-05,2026-08-05,Delivered,2.0,Card,0.0
+ORD0258,2026-08-20,Chennai,Bengaluru,DTDC,Express,1713.2,2.78,462.61,2026-08-21,2026-08-24,Delayed,4.0,Card,1.0
+ORD0259,2026-02-08,Ahmedabad,Bengaluru,Ecom Express,Same Day,301.2,31.16,430.69,2026-02-13,2026-02-11,Delivered,1.0,Cash on Delivery,0.0
+ORD0260,2026-04-16,Jaipur,Chennai,DTDC,Express,431.4,1.93,1448.69,2026-04-18,2026-04-18,Delivered,4.0,Card,0.0
+ORD0261,2026-01-28,Lucknow,Ahmedabad,Delhivery,Standard,51.2,6.14,761.4,2026-01-31,2026-01-29,Delivered,1.0,Net Banking,0.0
+ORD0262,2026-03-01,Ahmedabad,Chennai,BlueDart,Same Day,981.7,6.63,2218.88,2026-03-04,2026-03-07,Delayed,3.0,Card,1.0
+ORD0263,2026-08-17,Chennai,Lucknow,BlueDart,Standard,1355.3,23.43,255.41,2026-08-18,2026-08-18,Delivered,3.0,Net Banking,0.0
+ORD0264,2026-04-27,Kolkata,Jaipur,Ecom Express,Same Day,1587.6,16.77,238.83,2026-05-02,2026-04-30,Delivered,,UPI,0.0
+ORD0265,2026-09-15,Lucknow,Delhi,BlueDart,Express,315.3,34.46,2431.66,2026-09-20,2026-09-21,Delayed,2.0,Card,1.0
+ORD0266,2026-01-22,Delhi,Lucknow,DTDC,Express,1639.9,32.01,209.51,2026-01-26,2026-01-24,Delivered,4.0,Net Banking,0.0
+ORD0267,2026-06-16,Bengaluru,Lucknow,India Post,Same Day,1408.1,4.12,412.37,2026-06-19,2026-06-20,Delayed,5.0,UPI,1.0
+ORD0268,2026-02-24,Chennai, ,DTDC,Express,479.1,22.99,1449.32,2026-03-01,2026-03-04,Delayed,4.0,UPI,1.0
+ORD0269,2026-03-30,Kolkata,Bengaluru,Ecom Express,Express,1244.5,1.92,1211.66,2026-04-02,2026-04-02,Delivered,3.0,Cash on Delivery,0.0
+ORD0270,2026-01-11,Chennai,Chennai,Ecom Express,Same Day,1234.3,34.04,604.64,2026-01-14,2026-01-17,Delayed,3.0,Net Banking,1.0
+ORD0271,2026-06-14,Mumbai,Hyderabad,Ecom Express,Standard,1644.6,14.37,1234.35,2026-06-17,2026-06-19,Delayed,5.0,Cash on Delivery,1.0
+ORD0272,2026-01-29,Chennai,Jaipur,Ecom Express,Standard,1406.0,18.45,1441.09,2026-02-03,2026-02-06,Delayed,2.0,Card,1.0
+ORD0273,2026-04-13,Bengaluru,Pune,Delhivery,Express,666.2,16.35,1019.49,2026-04-14,,In Transit,1.0,UPI,
+ORD0274,2026-05-04,Ahmedabad,Lucknow,India Post,Express,622.9,29.35,680.01,2026-05-07,2026-05-07,Delivered,,UPI,0.0
+ORD0275,2026-05-26,Lucknow,Hyderabad,Delhivery,Same Day,409.1,7.39,1644.65,2026-05-27,,In Transit,5.0,UPI,
+ORD0276,2026-01-05,Bengaluru,Hyderabad,DTDC,Same Day,1450.1,10.83,2419.05,2026-01-09,2026-01-08,Delivered,,Cash on Delivery,0.0
+ORD0277,2026-08-05,Chennai,Hyderabad,Ecom Express,Express,1220.6,28.89,1020.01,2026-08-09,2026-08-12,Delayed,1.0,UPI,1.0
+ORD0278,2026-09-19,Lucknow,Chennai,DTDC,Same Day,199.0,2.42,2471.43,2026-09-22,2026-09-23,Delayed,,Cash on Delivery,1.0
+ORD0279,2026-05-22,Chennai,Hyderabad,Delhivery,Same Day,1379.0,31.51,2022.33,2026-05-25,2026-05-27,Delayed,5.0,Net Banking,1.0
+ORD0280,2026-06-13,Ahmedabad,Chennai,DTDC,Express,731.3,25.84,1476.32,2026-06-15,,In Transit,5.0,Card,
+ORD0281,2026-06-25,Ahmedabad,Pune,India Post,Express,1522.5,29.45,2196.79,2026-06-27,2026-06-29,Delayed,2.0,Cash on Delivery,1.0
+ORD0282,2026-02-19,Jaipur,Delhi,DTDC,Same Day,165.3,12.56,1872.04,2026-02-23,2026-02-22,Delivered,3.0,Net Banking,0.0
+ORD0283,2026-06-19,Mumbai,Ahmedabad,BlueDart,Same Day,1052.5,33.06,219.83,2026-06-22,2026-06-22,Delivered,2.0,UPI,0.0
+ORD0284,2026-07-15,Delhi,Delhi,Delhivery,Express,739.5,20.02,2270.75,2026-07-20,2026-07-20,Delivered,4.0,Card,0.0
+ORD0285,2026-06-11,Pune,Delhi,DTDC,Same Day,109.1,15.93,559.03,2026-06-13,2026-06-16,Delayed,2.0,Card,1.0
+ORD0286,2026-09-08,Kolkata,Kolkata,Ecom Express,Express,13.4,18.78,1838.77,2026-09-09,2026-09-09,Delivered,1.0,Cash on Delivery,0.0
+ORD0287,2026-04-08,Hyderabad,Hyderabad,DTDC,Express,236.4,13.55,1490.19,2026-04-09,,In Transit,2.0,UPI,
+ORD0288,2026-01-24,Jaipur,Pune,Ecom Express,Same Day,1791.9,12.13,2257.9,2026-01-27,2026-01-27,Delivered,3.0,Card,0.0
+ORD0289,2026-03-26,Delhi,Hyderabad,BlueDart,Same Day,910.8,4.49,1790.78,2026-03-30,2026-03-28,Delivered,1.0,Net Banking,0.0
+ORD0290,2026-05-11,Bengaluru,Mumbai,BlueDart,Standard,1243.1,14.7,978.52,2026-05-16,,In Transit,5.0,Cash on Delivery,
+ORD0291,2026-08-31,Chennai,Kolkata,BlueDart,Same Day,939.0,21.87,1765.28,2026-09-02,2026-09-01,Delivered,4.0,UPI,0.0
+ORD0292,2026-09-19,Ahmedabad,Hyderabad,India Post,Standard,1401.4,29.14,2434.01,2026-09-24,2026-09-22,Delivered,3.0,Net Banking,0.0
+ORD0293,2026-06-01,Ahmedabad,Pune,Delhivery,Standard,27.9,3.3,316.11,2026-06-03,2026-06-02,Delivered,5.0,Net Banking,0.0
+ORD0294,2026-03-18,Mumbai,Chennai,Delhivery,Express,1779.7,10.5,1184.8,2026-03-19,2026-03-22,Delayed,1.0,Card,1.0
+ORD0295,2026-01-21,Mumbai,Mumbai,BlueDart,Standard,1534.3,23.28,463.61,2026-01-24,2026-01-24,Delivered,3.0,Net Banking,0.0
+ORD0296,2026-05-18,Kolkata,Kolkata,Ecom Express,Express,1505.1,24.21,1219.09,2026-05-19,2026-05-19,Delivered,4.0,Card,0.0
+ORD0297,2026-02-27,Delhi,Mumbai,Ecom Express,Same Day,871.4,20.0,1120.69,2026-03-01,2026-03-03,Delayed,5.0,Net Banking,1.0
+ORD0298,2026-07-03,Delhi,Ahmedabad,Ecom Express,Standard,1598.2,15.54,200.49,2026-07-08,2026-07-06,Delivered,,Cash on Delivery,0.0
+ORD0299,2026-01-07,Lucknow,Hyderabad,DTDC,Same Day,-944.0,24.58,278.82,2026-01-12,2026-01-15,Delayed,,Card,1.0
+ORD0300,2026-09-04,Kolkata,Delhi,India Post,Same Day,102.9,22.59,430.26,2026-09-07,2026-09-09,Delayed,4.0,Net Banking,1.0
+ORD0301,2026-03-26,Hyderabad,Pune,DTDC,Standard,914.9,19.36,974.56,2026-03-27,2026-03-30,Delayed,2.0,UPI,1.0
+ORD0302,2026-08-24,Mumbai,Ahmedabad,Ecom Express,Express,218.1,17.51,1649.03,2026-08-28,2026-08-31,Delayed,1.0,Net Banking,1.0
+ORD0303,2026-07-31,Mumbai,Lucknow,India Post,Same Day,551.8,17.89,552.82,2026-08-01,2026-08-02,Delayed,,Net Banking,1.0
+ORD0304,2026-06-24,Hyderabad,Ahmedabad,DTDC,Same Day,1382.5,21.08,1804.4,2026-06-27,,In Transit,3.0,Net Banking,
+ORD0305,2026-02-28,Bengaluru,Pune,DTDC,Same Day,1736.2,10.36,1326.47,2026-03-01,2026-03-04,Delayed,,UPI,1.0
+ORD0306,2026-01-24,Kolkata,Mumbai,DTDC,Same Day,356.7,4.4,2137.14,2026-01-26,2026-01-26,Delivered,2.0,Net Banking,0.0
+ORD0307,2026-04-08,Lucknow,Mumbai,Ecom Express,Express,1186.9,33.48,,2026-04-11,2026-04-09,Delivered,4.0,UPI,0.0
+ORD0308,2026-01-25,Jaipur,Delhi,India Post,Standard,1316.2,4.67,996.08,2026-01-30,2026-01-30,Delivered,5.0,Cash on Delivery,0.0
+ORD0309,2026-09-16,Hyderabad,Chennai,Ecom Express,Express,1747.0,15.96,372.43,2026-09-20,2026-09-20,Delivered,4.0,Cash on Delivery,0.0
+ORD0310,2026-06-10,Hyderabad,Lucknow,DTDC,Same Day,624.8,23.6,2454.18,2026-06-15,2026-06-17,Delayed,,Card,1.0
+ORD0311,2026-09-15,Mumbai,Pune,India Post,Express,1051.1,33.01,1788.35,2026-09-20,2026-09-22,Delayed,,Cash on Delivery,1.0
+ORD0312,2026-08-05,Kolkata,Delhi,BlueDart,Same Day,106.6,9.49,1973.48,2026-08-06,2026-08-07,Delayed,3.0,Cash on Delivery,1.0
+ORD0313,2026-03-16,Hyderabad,Jaipur,BlueDart,Express,1466.2,3.77,2176.03,2026-03-17,2026-03-19,Delayed,,Card,1.0
+ORD0314,2026-07-19,Chennai,Bengaluru,Ecom Express,Express,752.7,27.63,1727.04,2026-07-21,2026-07-22,Delayed,5.0,UPI,1.0
+ORD0315,2026-01-07,Ahmedabad,Hyderabad,DTDC,Same Day,986.2,21.2,1950.44,2026-01-10,2026-01-09,Delivered,2.0,Cash on Delivery,0.0
+ORD0316,2026-08-18,Delhi,Jaipur,BlueDart,Express,77.9,9.91,693.71,2026-08-20,,In Transit,2.0,Cash on Delivery,
+ORD0317,2026-01-03,Delhi,Pune,India Post,Standard,1393.7,21.96,2114.91,2026-01-06,2026-01-06,Delivered,3.0,Net Banking,0.0
+ORD0318,2026-07-03,Jaipur,Hyderabad,Delhivery,Same Day,127.4,17.78,1066.11,2026-07-04,2026-07-07,Delayed,5.0,Net Banking,1.0
+ORD0319,2026-02-17,Pune,Pune,DTDC,Standard,1710.8,21.72,1210.77,2026-02-20,2026-02-19,Delivered,5.0,UPI,0.0
+ORD0320,2026-02-28,Lucknow,Hyderabad,BlueDart,Same Day,1594.8,13.47,1999.69,2026-03-03,2026-03-03,Delivered,1.0,Net Banking,0.0
+ORD0321,2026-05-12,Jaipur,Pune,India Post,Same Day,804.8,1.73,2250.28,2026-05-17,2026-05-19,Delayed,2.0,Cash on Delivery,1.0
+ORD0322,2026-09-21,Jaipur,Jaipur,BlueDart,Same Day,122.5,23.53,1944.14,2026-09-22,2026-09-22,Delivered,,Net Banking,0.0
+ORD0323,2026-02-23,Kolkata,Mumbai,Delhivery,Standard,829.3,11.74,259.86,2026-02-25,2026-02-26,Delayed,1.0,Card,1.0
+ORD0324,2026-05-09,Chennai,Kolkata,Ecom Express,Express,1136.2,15.27,86.47,2026-05-14,2026-05-12,Delivered,,UPI,0.0
+ORD0325,2026-01-04,Mumbai,Pune,India Post,Standard,-525.3,24.07,1534.12,2026-01-09,2026-01-07,Delivered,3.0,Net Banking,0.0
+ORD0326,2026-07-15,Ahmedabad,Delhi,India Post,Standard,249.8,13.81,2002.82,2026-07-19,2026-07-22,Delayed,5.0,Cash on Delivery,1.0
+ORD0327,2026-03-15,Pune,Bengaluru,India Post,Same Day,258.8,1.65,1451.02,2026-03-18,2026-03-20,Delayed,4.0,UPI,1.0
+ORD0328,2026-06-06,Pune,Hyderabad,Ecom Express,Same Day,1533.4,5.16,496.7,2026-06-08,2026-06-10,Delayed,5.0,Cash on Delivery,1.0
+ORD0329,2026-04-10,Bengaluru,Jaipur,Ecom Express,Same Day,991.6,10.31,210.38,2026-04-11,2026-04-11,Delivered,1.0,Card,0.0
+ORD0330,2026-09-07,Mumbai,Chennai,India Post,Standard,1620.7,11.26,1151.34,2026-09-10,2026-09-10,Delivered,5.0,Cash on Delivery,0.0
+ORD0331,2026-03-20,Pune,Kolkata,Delhivery,Standard,567.2,27.54,1793.45,2026-03-25,2026-03-26,Delayed,,Net Banking,1.0
+ORD0332,2026-05-22,Ahmedabad,Ahmedabad,Ecom Express,Express,1395.7,17.15,312.18,2026-05-25,2026-05-24,Delivered,,UPI,0.0
+ORD0333,2026-05-24,Mumbai,Mumbai,BlueDart,Same Day,1138.8,28.48,1466.2,2026-05-26,2026-05-27,Delayed,5.0,Card,1.0
+ORD0334,2026-01-19,Ahmedabad,Delhi,DTDC,Express,405.8,27.07,1845.07,2026-01-24,2026-01-24,Delivered,3.0,Card,0.0
+ORD0335,2026-08-26,Pune,Jaipur,BlueDart,Same Day,433.8,33.75,2455.45,2026-08-31,2026-09-01,Delayed,,Card,1.0
+ORD0336,2026-09-21,Lucknow,Delhi,Ecom Express,Express,77.6,26.7,613.95,2026-09-23,2026-09-23,Delivered,3.0,Cash on Delivery,0.0
+ORD0337,2026-04-30,Pune,Kolkata,Ecom Express,Express,1587.4,1.59,1637.13,2026-05-01,2026-05-03,Delayed,1.0,Cash on Delivery,1.0
+ORD0338,2026-05-15,Kolkata,Kolkata,DTDC,Same Day,1177.7,29.27,1313.41,2026-05-20,2026-05-21,Delayed,4.0,Card,1.0
+ORD0339,2026-09-22,Ahmedabad,Lucknow,BlueDart,Same Day,1588.3,15.51,609.63,2026-09-26,2026-09-26,Delivered,5.0,Cash on Delivery,0.0
+ORD0340,2026-04-19,Mumbai,Hyderabad,Ecom Express,Express,1297.9,16.96,1220.49,2026-04-21,2026-04-20,Delivered,2.0,Card,0.0
+ORD0341,2026-07-30,Lucknow,Lucknow,Delhivery,Standard,1135.0,1.56,1449.92,2026-07-31,,In Transit,1.0,Card,
+ORD0342,2026-05-13,Lucknow,Lucknow,BlueDart,Same Day,1311.7,28.78,2370.51,2026-05-15,2026-05-16,Delayed,2.0,Net Banking,1.0
+ORD0343,2026-08-30,Delhi,Lucknow,Delhivery,Same Day,1189.1,9.41,1822.88,2026-09-03,2026-09-02,Delivered,3.0,Net Banking,0.0
+ORD0344,2026-02-05,Hyderabad,Jaipur,India Post,Same Day,758.5,5.4,281.41,2026-02-07,2026-02-07,Delivered,4.0,UPI,0.0
+ORD0345,2026-09-15,Lucknow,Jaipur,BlueDart,Same Day,1170.4,18.37,954.28,2026-09-16,2026-09-16,Delivered,1.0,Net Banking,0.0
+ORD0346,2026-04-28,Pune,Lucknow,India Post,Standard,768.8,9.06,,2026-05-02,2026-05-05,Delayed,1.0,Cash on Delivery,1.0
+ORD0347,2026-07-29,Bengaluru,Lucknow,India Post,Standard,938.0,13.25,549.3,2026-08-01,,In Transit,3.0,Net Banking,
+ORD0348,2026-07-05,Chennai,Jaipur,Ecom Express,Same Day,661.3,9.79,1715.89,2026-07-06,2026-07-06,Delivered,2.0,Net Banking,0.0
+ORD0349,2026-09-05,Chennai,Lucknow,DTDC,Same Day,719.6,5.0,2165.7,2026-09-07,2026-09-07,Delivered,1.0,Card,0.0
+ORD0350,2026-08-17,Pune,Jaipur,India Post,Same Day,1233.8,2.01,1000.25,2026-08-19,2026-08-18,Delivered,,UPI,0.0
+ORD0351,2026-02-16,Mumbai,Chennai,Delhivery,Express,148.7,1.51,988.52,2026-02-18,2026-02-18,Delivered,4.0,Cash on Delivery,0.0
+ORD0352,2026-01-30,Bengaluru,Hyderabad,India Post,Express,354.6,27.48,1298.39,2026-02-01,2026-02-03,Delayed,,Card,1.0
+ORD0353,2026-03-28,Delhi,Mumbai,DTDC,Express,638.9,13.95,1483.83,2026-03-29,2026-03-29,Returned,5.0,UPI,0.0
+ORD0354,2026-02-05,Jaipur,Lucknow,DTDC,Express,1734.1,9.82,1533.62,2026-02-06,2026-02-07,Delayed,2.0,Net Banking,1.0
+ORD0355,2026-07-26,Mumbai,Jaipur,BlueDart,Same Day,533.2,33.16,2016.22,2026-07-31,2026-07-29,Delivered,3.0,Cash on Delivery,0.0
+ORD0356,2026-08-15,Hyderabad,Pune,Ecom Express,Same Day,832.0,20.62,112.15,2026-08-19,2026-08-20,Delayed,1.0,Cash on Delivery,1.0
+ORD0357,2026-02-04,Hyderabad,Hyderabad,DTDC,Express,1720.0,18.17,68.87,2026-02-08,2026-02-10,Delayed,3.0,Card,1.0
+ORD0358,2026-05-28,Mumbai,Jaipur,Delhivery,Express,568.4,7.81,1453.46,2026-05-29,2026-05-29,Delivered,2.0,Card,0.0
+ORD0359,2026-09-13,Hyderabad,Hyderabad,Delhivery,Standard,1506.2,12.59,1957.29,2026-09-15,2026-09-14,Delivered,1.0,UPI,0.0
+ORD0360,2026-09-10,Bengaluru,Ahmedabad,DTDC,Same Day,571.2,31.45,2207.82,2026-09-15,2026-09-13,Delivered,5.0,Cash on Delivery,0.0
+ORD0361,2026-09-09,Chennai,Kolkata,Delhivery,Same Day,235.2,18.5,1083.9,2026-09-11,2026-09-14,Delayed,5.0,UPI,1.0
+ORD0362,2026-09-15,Ahmedabad,Mumbai,India Post,Express,571.6,0.49,1699.92,2026-09-18,2026-09-18,Delivered,,UPI,0.0
+ORD0363,2026-06-16,Delhi,Jaipur,DTDC,Standard,488.6,33.56,887.3,2026-06-19,2026-06-20,Delayed,2.0,Net Banking,1.0
+ORD0364,2026-08-06,Kolkata,Chennai,Ecom Express,Standard,1030.7,34.28,1729.16,2026-08-08,2026-08-08,Delivered,1.0,Cash on Delivery,0.0
+ORD0365,2026-05-01,Delhi,Ahmedabad,BlueDart,Standard,761.6,4.88,2237.98,2026-05-06,2026-05-06,Delivered,,Cash on Delivery,0.0
+ORD0366,2026-09-07,Kolkata,Mumbai,Delhivery,Standard,391.8,9.05,2104.68,2026-09-10,2026-09-10,Delivered,1.0,Net Banking,0.0
+ORD0367,2026-06-21,Chennai,Pune,BlueDart,Express,222.6,30.38,2409.45,2026-06-24,2026-06-24,Delivered,2.0,Card,0.0
+ORD0368,2026-05-26,Ahmedabad,Mumbai,Ecom Express,Same Day,519.3,22.18,400.6,2026-05-29,2026-05-29,Delivered,2.0,Cash on Delivery,0.0
+ORD0369,2026-08-04,Mumbai,Mumbai,Delhivery,Express,414.7,11.23,760.28,2026-08-09,2026-08-10,Delayed,3.0,Net Banking,1.0
+ORD0370,2026-05-19,Pune,Lucknow,India Post,Express,748.1,6.6,101.71,2026-05-23,2026-05-26,Delayed,,Card,1.0
+ORD0371,2026-05-09,Mumbai,Ahmedabad,India Post,Standard,52.3,14.02,1923.07,2026-05-10,2026-05-10,Delivered,1.0,UPI,0.0
+ORD0372,2026-05-15,Kolkata,Chennai,Delhivery,Standard,1329.0,15.62,355.34,2026-05-20,2026-05-19,Delivered,5.0,Card,0.0
+ORD0373,2026-01-15,Pune,Ahmedabad,Ecom Express,Same Day,1683.1,19.29,376.71,2026-01-16,2026-01-18,Delayed,,Card,1.0
+ORD0374,2026-08-22,Chennai,Pune,Ecom Express,Same Day,412.7,3.32,800.82,2026-08-27,2026-08-27,Delivered,4.0,Cash on Delivery,0.0
+ORD0375,2026-03-21,Delhi,Pune,DTDC,Express,965.5,24.13,1252.69,2026-03-24,,In Transit,,Cash on Delivery,
+ORD0376,2026-01-05,Hyderabad,Bengaluru,India Post,Express,343.5,30.9,1118.1,2026-01-09,2026-01-12,Delayed,2.0,Card,1.0
+ORD0377,2026-07-19,Hyderabad,Jaipur,India Post,Same Day,1233.9,10.11,1868.89,2026-07-23,2026-07-22,Delivered,3.0,Net Banking,0.0
+ORD0378,2026-04-07,Ahmedabad,Lucknow,Ecom Express,Express,1262.3,17.32,832.18,2026-04-08,2026-04-08,Delivered,,UPI,0.0
+ORD0379,2026-01-12,Ahmedabad,Bengaluru,Delhivery,Standard,275.5,,884.4,2026-01-14,2026-01-13,Delivered,3.0,Net Banking,0.0
+ORD0380,2026-07-10,Pune,Mumbai,Delhivery,Standard,483.4,13.86,1378.54,2026-07-14,2026-07-16,Delayed,2.0,Card,1.0
+ORD0381,2026-05-09,Hyderabad,Kolkata,Ecom Express,Standard,1329.0,1.37,1176.35,2026-05-13,,In Transit,1.0,Card,
+ORD0382,2026-08-31,Pune,Delhi,BlueDart,Same Day,1687.7,18.33,666.88,2026-09-04,2026-09-06,Delayed,,Cash on Delivery,1.0
+ORD0383,2026-04-12,Mumbai,Hyderabad,Ecom Express,Express,32.0,27.84,1480.43,2026-04-15,2026-04-13,Delivered,4.0,Card,0.0
+ORD0384,2026-01-05,Ahmedabad,Lucknow,Delhivery,Express,1388.6,8.86,1272.3,2026-01-06,2026-01-07,Delayed,,Cash on Delivery,1.0
+ORD0385,2026-01-31,Mumbai,Delhi,Ecom Express,Standard,573.5,19.63,1627.61,2026-02-01,2026-02-01,Delivered,3.0,Net Banking,0.0
+ORD0386,2026-04-09,Delhi,Chennai,BlueDart,Express,1273.4,19.65,1377.41,2026-04-10,2026-04-12,Delayed,4.0,Card,1.0
+ORD0387,2026-04-06,Lucknow,Jaipur,Delhivery,Standard,958.4,15.84,2056.67,2026-04-11,2026-04-11,Delivered,5.0,Cash on Delivery,0.0
+ORD0388,2026-08-21,Kolkata,Delhi,BlueDart,Same Day,1543.0,27.21,631.22,2026-08-22,2026-08-25,Delayed,,UPI,1.0
+ORD0389,2026-07-18,Jaipur,Delhi,India Post,Express,584.1,22.5,316.19,2026-07-20,2026-07-21,Delayed,5.0,UPI,1.0
+ORD0390,2026-01-23,Ahmedabad,Hyderabad,BlueDart,Standard,1030.0,29.3,1660.2,2026-01-25,2026-01-24,Delivered,5.0,Cash on Delivery,0.0
+ORD0391,2026-01-26,Hyderabad,Ahmedabad,BlueDart,Express,1442.8,2.31,1414.94,2026-01-29,2026-01-28,Delivered,4.0,Cash on Delivery,0.0
+ORD0392,2026-01-30,Chennai,Mumbai,Delhivery,Same Day,179.3,25.44,1350.23,2026-02-04,2026-02-04,Delivered,2.0,Card,0.0
+ORD0393,2026-09-27,Delhi,Jaipur,India Post,Express,1344.3,26.87,1460.46,2026-09-29,2026-09-30,Delayed,,Net Banking,1.0
+ORD0394,2026-08-07,Jaipur,Pune,Delhivery,Same Day,1797.2,15.62,909.96,2026-08-08,2026-08-08,Delivered,3.0,Cash on Delivery,0.0
+ORD0395,2026-07-10,Pune,Lucknow,Delhivery,Same Day,984.4,13.25,,2026-07-14,2026-07-17,Delayed,,Cash on Delivery,1.0
+ORD0396,2026-07-04,Bengaluru,Chennai,India Post,Standard,934.1,34.77,786.02,2026-07-08,2026-07-08,Returned,3.0,Card,0.0
+ORD0397,2026-04-20,Chennai,Jaipur,India Post,Same Day,1029.3,20.09,276.47,2026-04-23,2026-04-21,Delivered,4.0,Cash on Delivery,0.0
+ORD0398,2026-03-21,Hyderabad,Chennai,DTDC,Standard,1029.0,20.0,578.81,2026-03-23,2026-03-23,Delivered,1.0,Cash on Delivery,0.0
+ORD0399,2026-09-05,Lucknow,Mumbai,India Post,Same Day,544.2,25.63,1459.78,2026-09-07,2026-09-07,Delivered,1.0,UPI,0.0
+ORD0400,2026-06-21,Mumbai,Hyderabad,India Post,Standard,1142.8,22.2,177.88,2026-06-24,2026-06-27,Delayed,5.0,UPI,1.0
+ORD0401,2026-06-13,Jaipur,Hyderabad,Delhivery,Standard,1214.2,34.91,2428.9,2026-06-18,2026-06-19,Delayed,5.0,UPI,1.0
+ORD0402,2026-04-24,Pune,Mumbai,Ecom Express,Same Day,1342.8,19.28,689.58,2026-04-28,2026-04-28,Delivered,4.0,Net Banking,0.0
+ORD0403,2026-03-08,Lucknow,Hyderabad,India Post,Same Day,1794.8,18.44,639.88,2026-03-10,2026-03-10,Delivered,3.0,Net Banking,0.0
+ORD0404,2026-06-15,Pune,Pune,Delhivery,Express,623.4,23.01,1934.57,2026-06-20,2026-06-18,Delivered,2.0,Cash on Delivery,0.0
+ORD0405,2026-08-15,Hyderabad,Hyderabad,DTDC,Standard,1365.1,29.88,320.87,2026-08-20,2026-08-19,Delivered,1.0,Card,0.0
+ORD0406,2026-03-17,Chennai,Ahmedabad,Ecom Express,Standard,600.7,25.95,565.15,2026-03-20,2026-03-18,Delivered,5.0,Cash on Delivery,0.0
+ORD0407,2026-09-05,Bengaluru,Kolkata,India Post,Same Day,950.6,9.09,192.57,2026-09-10,2026-09-12,Delayed,2.0,Cash on Delivery,1.0
+ORD0408,2026-01-28,Mumbai,Kolkata,DTDC,Same Day,1534.5,23.17,2166.81,2026-02-01,2026-02-03,Delayed,1.0,Cash on Delivery,1.0
+ORD0409,2026-07-17,Pune,Ahmedabad,India Post,Same Day,163.0,7.12,2418.47,2026-07-19,2026-07-19,Delivered,5.0,UPI,0.0
+ORD0410,2026-01-21,Ahmedabad,Kolkata,Delhivery,Standard,627.5,12.45,1579.94,2026-01-23,2026-01-24,Delayed,2.0,Cash on Delivery,1.0
+ORD0411,2026-02-01,Bengaluru,Jaipur,DTDC,Standard,277.3,31.42,1657.77,2026-02-04,2026-02-04,Delivered,1.0,Net Banking,0.0
+ORD0412,2026-09-24,Hyderabad,Kolkata,Delhivery,Same Day,279.2,33.97,2278.4,2026-09-29,2026-10-02,Delayed,3.0,Net Banking,1.0
+ORD0413,2026-03-09,Jaipur,Hyderabad,Delhivery,Express,1240.9,31.47,2277.98,2026-03-11,2026-03-13,Delayed,4.0,Card,1.0
+ORD0414,2026-03-22,Mumbai,Delhi,DTDC,Standard,1310.1,26.84,2205.72,2026-03-25,2026-03-23,Delivered,4.0,Net Banking,0.0
+ORD0415,2026-06-05,Chennai,Delhi,Delhivery,Standard,241.1,1.11,2465.52,2026-06-09,2026-06-11,Delayed,5.0,Cash on Delivery,1.0
+ORD0416,2026-04-29,Mumbai,Ahmedabad,Delhivery,Same Day,1523.8,16.51,1639.69,2026-05-04,2026-05-03,Returned,2.0,Net Banking,0.0
+ORD0417,2026-09-09,Kolkata,Bengaluru,DTDC,Express,404.5,23.56,542.96,2026-09-13,2026-09-12,Delivered,2.0,UPI,0.0
+ORD0418,2026-04-01,Pune,Ahmedabad,Delhivery,Express,731.7,1.66,1850.24,2026-04-05,2026-04-08,Delayed,4.0,Cash on Delivery,1.0
+ORD0419,2026-07-21,Jaipur,Jaipur,BlueDart,Same Day,201.2,16.1,2199.92,2026-07-26,2026-07-28,Delayed,2.0,Net Banking,1.0
+ORD0420,2026-01-21,Bengaluru,Hyderabad,DTDC,Express,719.5,10.8,2076.81,2026-01-26,2026-01-26,Delivered,4.0,Card,0.0
+ORD0421,2026-08-05,Jaipur,Delhi,Ecom Express,Same Day,815.8,25.35,322.84,2026-08-08,2026-08-09,Delayed,5.0,Card,1.0
+ORD0422,2026-07-21,Lucknow, ,Ecom Express,Standard,453.9,24.27,2272.08,2026-07-25,2026-07-25,Delivered,2.0,UPI,0.0
+ORD0423,2026-02-16,Pune,Mumbai,India Post,Same Day,694.4,27.73,1301.14,2026-02-17,2026-02-19,Delayed,2.0,Net Banking,1.0
+ORD0424,2026-07-14,Pune,Lucknow,Delhivery,Standard,1564.5,6.42,1793.08,2026-07-15,2026-07-18,Delayed,4.0,Cash on Delivery,1.0
+ORD0425,2026-06-08,Delhi,Hyderabad,BlueDart,Same Day,1378.9,0.62,1266.68,2026-06-12,2026-06-12,Delivered,4.0,UPI,0.0
+ORD0426,2026-09-10,Kolkata,Ahmedabad,BlueDart,Same Day,1082.2,8.72,1388.72,2026-09-12,2026-09-11,Delivered,5.0,Card,0.0
+ORD0427,2026-01-26,Pune,Bengaluru,Delhivery,Standard,1202.3,29.36,777.67,2026-01-28,,delayed,1.0,UPI,
+ORD0428,2026-02-25,Lucknow,Lucknow,India Post,Standard,1739.5,26.28,929.26,2026-03-01,2026-02-28,Delivered,1.0,UPI,0.0
+ORD0429,2026-06-03,Kolkata,Jaipur,BlueDart,Express,850.1,4.45,2154.85,2026-06-06,2026-06-06,Delivered,3.0,Net Banking,0.0
+ORD0430,2026-09-26,Bengaluru,Mumbai,India Post,Same Day,1762.9,18.61,260.23,2026-09-28,2026-09-30,Delayed,,Cash on Delivery,1.0
+ORD0431,2026-08-07,Jaipur,Lucknow,India Post,express,1669.2,21.58,,2026-08-12,2026-08-15,Delayed,,Net Banking,1.0
+ORD0432,2026-09-10,Chennai,Hyderabad,BlueDart,Standard,48.1,21.97,334.51,2026-09-12,2026-09-13,Delayed,2.0,Net Banking,1.0
+ORD0433,2026-07-31,Hyderabad,Bengaluru,Delhivery,Same Day,510.5,27.7,800.58,2026-08-01,2026-08-01,Delivered,5.0,Cash on Delivery,0.0
+ORD0434,2026-01-04,Kolkata,Lucknow,India Post,Standard,1498.5,6.95,2092.04,2026-01-05,2026-01-07,Delayed,,Net Banking,1.0
+ORD0435,2026-08-31,Delhi,Ahmedabad,India Post,Express,835.1,28.53,2322.72,2026-09-01,2026-09-03,Delayed,1.0,Cash on Delivery,1.0
+ORD0436,2026-06-11,Lucknow,Pune,DTDC,Standard,1745.5,9.96,121.53,2026-06-16,,In Transit,4.0,Card,
+ORD0437,2026-07-19,Chennai,Pune,BlueDart,Express,747.9,17.5,628.41,2026-07-21,2026-07-22,Delayed,4.0,Cash on Delivery,1.0
+ORD0438,2026-04-21,Bengaluru,Hyderabad,BlueDart,Express,913.3,28.01,2266.67,2026-04-26,2026-04-26,Delivered,2.0,Card,0.0
+ORD0439,2026-06-24,Chennai,Pune,Delhivery,Standard,1480.7,32.84,1706.34,2026-06-28,2026-06-30,Delayed,2.0,Card,1.0
+ORD0440,2026-01-19,Bengaluru,Chennai,BlueDart,Same Day,1527.4,30.54,863.23,2026-01-23,2026-01-23,Delivered,1.0,UPI,0.0
+ORD0441,2026-09-24,Hyderabad,Pune,Delhivery,Standard,519.4,18.72,1942.19,2026-09-27,2026-09-25,Delivered,,UPI,0.0
+ORD0442,2026-05-20,Lucknow,Jaipur,India Post,Standard,375.8,12.39,826.88,2026-05-22,2026-05-21,Returned,2.0,Cash on Delivery,0.0
+ORD0443,2026-05-06,Jaipur,Ahmedabad,BlueDart,Standard,-57.0,31.63,168.87,2026-05-08,2026-05-07,Delivered,4.0,UPI,0.0
+ORD0444,2026-02-14,Lucknow,Ahmedabad,India Post,Express,565.8,28.65,1795.17,2026-02-18,2026-02-18,Delivered,,UPI,0.0
+ORD0445,2026-08-27,Ahmedabad,Mumbai,Ecom Express,Express,1233.6,24.92,1187.55,2026-09-01,2026-08-31,Delivered,2.0,Card,0.0
+ORD0446,2026-03-15,Pune,Pune,Ecom Express,Express,59.3,16.74,907.79,2026-03-20,2026-03-20,Delivered,4.0,Card,0.0
+ORD0447,2026-05-25,Jaipur,Mumbai,Ecom Express,Same Day,1435.2,11.54,1639.4,2026-05-28,2026-05-29,Delayed,3.0,Net Banking,1.0
+ORD0448,2026-07-25,Delhi,Ahmedabad,Ecom Express,Standard,616.6,28.52,1495.83,2026-07-30,2026-07-30,Delivered,4.0,Cash on Delivery,0.0
+ORD0449,2026-05-01,Lucknow,Ahmedabad,BlueDart,Same Day,1075.0,11.52,284.74,2026-05-03,2026-05-05,Delayed,4.0,Card,1.0
+ORD0450,2026-06-07,Lucknow,Kolkata,DTDC,Express,1162.8,2.34,,2026-06-11,2026-06-09,delayed,2.0,UPI,0.0
+ORD0451,2026-03-17,Lucknow,Ahmedabad,Delhivery,Standard,1228.3,11.22,1445.03,2026-03-19,2026-03-19,Delivered,,Cash on Delivery,0.0
+ORD0452,2026-08-11,Jaipur,Kolkata,Delhivery,Express,117.0,31.56,2421.19,2026-08-14,2026-08-12,Delivered,1.0,Cash on Delivery,0.0
+ORD0453,2026-02-26,Kolkata,Lucknow,Ecom Express,Same Day,576.0,13.52,981.74,2026-03-01,,In Transit,5.0,Card,
+ORD0454,2026-03-30,Pune,Kolkata,Delhivery,Express,1795.4,23.52,374.65,2026-04-03,2026-04-02,Delivered,1.0,UPI,0.0
+ORD0455,2026-03-15,Delhi,Mumbai,Delhivery,Same Day,1451.7,30.13,2238.74,2026-03-19,2026-03-21,Delayed,,Net Banking,1.0
+ORD0456,2026-04-03,Ahmedabad,Kolkata,DTDC,Standard,338.5,21.24,1463.84,2026-04-07,2026-04-08,Delayed,,Card,1.0
+ORD0457,2026-09-14,Bengaluru,Bengaluru,India Post,Express,1270.3,4.14,1227.16,2026-09-17,2026-09-17,Delivered,,UPI,0.0
+ORD0458,2026-03-14,Chennai,Ahmedabad,India Post,Standard,944.4,21.43,647.04,2026-03-19,2026-03-22,Delayed,,UPI,1.0
+ORD0459,2026-06-09,Bengaluru,Ahmedabad,Ecom Express,Same Day,1631.4,20.17,858.87,2026-06-14,2026-06-12,Delivered,3.0,Cash on Delivery,0.0
+ORD0460,2026-05-29,Chennai,Lucknow,DTDC,Standard,1134.6,20.32,1451.37,2026-05-31,2026-05-30,Delivered,,Cash on Delivery,0.0
+ORD0461,2026-01-14,Chennai,Chennai,Delhivery,Same Day,509.3,30.05,79.87,2026-01-17,2026-01-17,Delivered,1.0,Card,0.0
+ORD0462,2026-03-19,Hyderabad,Ahmedabad,Delhivery,Same Day,1552.3,12.13,252.21,2026-03-23,2026-03-23,Delivered,2.0,Card,0.0
+ORD0463,2026-09-11,Ahmedabad,Delhi,Delhivery,Same Day,1323.2,12.21,1621.75,2026-09-15,2026-09-18,Delayed,1.0,UPI,1.0
+ORD0464,2026-03-27,Jaipur,Hyderabad,Ecom Express,Same Day,1271.6,16.72,401.34,2026-03-31,2026-03-31,Delivered,4.0,UPI,0.0
+ORD0465,2026-05-28,Bengaluru,Mumbai,India Post,Same Day,640.1,29.58,1543.74,2026-06-01,2026-06-01,Delivered,,Cash on Delivery,0.0
+ORD0466,2026-06-21,Lucknow,Kolkata,Ecom Express,Same Day,1349.6,25.75,1490.32,2026-06-24,2026-06-24,Delivered,2.0,Cash on Delivery,0.0
+ORD0467,2026-04-03,Bengaluru,Mumbai,BlueDart,Express,180.4,3.82,1139.79,2026-04-06,,In Transit,2.0,Cash on Delivery,
+ORD0468,2026-05-09,Mumbai,Bengaluru,India Post,Same Day,1609.7,7.75,1516.49,2026-05-11,,In Transit,1.0,UPI,
+ORD0469,2026-02-14,Lucknow,Delhi,BlueDart,Same Day,335.8,10.45,1666.47,2026-02-19,2026-02-18,Delivered,1.0,Net Banking,0.0
+ORD0470,2026-05-22,Pune,Chennai,Delhivery,Standard,502.7,,998.99,2026-05-26,2026-05-28,Delayed,1.0,Cash on Delivery,1.0
+ORD0471,2026-05-16,Hyderabad,Lucknow,Ecom Express,Standard,1163.6,3.97,1372.25,2026-05-18,,In Transit,4.0,Card,
+ORD0472,2026-02-24,Bengaluru, ,BlueDart,Same Day,1310.9,27.25,91.07,2026-02-28,2026-03-02,Delayed,4.0,Card,1.0
+ORD0473,2026-01-01,Delhi,Pune,Ecom Express,Same Day,11.6,24.82,1937.78,2026-01-02,2026-01-04,Delayed,4.0,Net Banking,1.0
+ORD0474,2026-07-26,Kolkata,Ahmedabad,BlueDart,Same Day,965.9,34.71,863.59,2026-07-27,2026-07-28,Delayed,3.0,Net Banking,1.0
+ORD0475,2026-01-29,Mumbai,Ahmedabad,DTDC,Same Day,369.6,19.5,2420.24,2026-01-30,2026-01-30,Delivered,,Card,0.0
+ORD0476,2026-06-03,Mumbai,Ahmedabad,Delhivery,Standard,69.1,1.08,2491.12,2026-06-07,2026-06-05,Delivered,2.0,Net Banking,0.0
+ORD0477,2026-07-19,Chennai,Ahmedabad,India Post,Express,1740.0,0.77,877.94,2026-07-20,2026-07-23,Delayed,3.0,UPI,1.0
+ORD0478,2026-07-27,Ahmedabad,Jaipur,Delhivery,Same Day,1044.9,32.38,135.53,2026-07-28,2026-07-28,Delivered,2.0,Net Banking,0.0
+ORD0479,2026-01-10,Delhi,Bengaluru,Delhivery,Same Day,94.7,10.9,1993.53,2026-01-14,,In Transit,4.0,Card,
+ORD0480,2026-02-02,Hyderabad,Mumbai,Delhivery,Express,610.5,29.29,1856.61,2026-02-03,2026-02-03,Delivered,4.0,Cash on Delivery,0.0
+ORD0481,2026-03-03,Hyderabad,Bengaluru,India Post,Standard,607.2,4.4,391.74,2026-03-08,2026-03-09,Delayed,4.0,Card,1.0
+ORD0482,2026-07-09,Bengaluru,Delhi,BlueDart,Same Day,1104.3,27.26,83.37,2026-07-14,2026-07-13,Delivered,4.0,UPI,0.0
+ORD0483,2026-01-04,Lucknow,Chennai,Ecom Express,Same Day,1454.3,27.09,1744.74,2026-01-05,2026-01-05,Delivered,2.0,Card,0.0
+ORD0484,2026-05-19,Lucknow,Bengaluru,India Post,Standard,1292.4,21.5,261.09,2026-05-24,2026-05-24,Delivered,3.0,Cash on Delivery,0.0
+ORD0485,2026-08-03,Mumbai,Jaipur,BlueDart,Same Day,654.6,26.69,1370.02,2026-08-04,2026-08-05,Delayed,2.0,Net Banking,1.0
+ORD0486,2026-04-17,Ahmedabad,Ahmedabad,Delhivery,Standard,1207.9,1.7,1628.13,2026-04-20,2026-04-18,Delivered,3.0,Card,0.0
+ORD0487,2026-08-11,Ahmedabad,Bengaluru,BlueDart,Same Day,99.2,18.9,433.0,2026-08-14,2026-08-14,Delivered,1.0,Net Banking,0.0
+ORD0488,2026-09-21,Lucknow,Lucknow,DTDC,Express,361.8,23.75,844.56,2026-09-22,2026-09-22,Delivered,1.0,Cash on Delivery,0.0
+ORD0489,2026-04-27,Kolkata,Hyderabad,BlueDart,Express,1055.2,2.09,1115.05,2026-04-28,2026-04-28,Delivered,2.0,Net Banking,0.0
+ORD0490,2026-04-02,Pune,Chennai,Delhivery,Express,233.3,24.29,191.44,2026-04-06,2026-04-06,Delivered,2.0,UPI,0.0
+ORD0491,2026-08-27,Chennai,Lucknow,Delhivery,Same Day,1715.2,31.71,1464.29,2026-08-31,2026-08-31,Delivered,5.0,Card,0.0
+ORD0492,2026-02-14,Hyderabad,Lucknow,Ecom Express,Express,506.1,25.6,1852.32,2026-02-18,2026-02-21,Delayed,2.0,Card,1.0
+ORD0493,2026-06-17,Lucknow,Delhi,India Post,Standard,754.9,1.74,2478.58,2026-06-21,2026-06-22,Delayed,,UPI,1.0
+ORD0494,2026-08-06,Mumbai,Ahmedabad,Ecom Express,Standard,154.1,26.41,1746.71,2026-08-11,2026-08-11,Delivered,4.0,Card,0.0
+ORD0495,2026-03-09,Bengaluru,Ahmedabad,DTDC,Standard,1267.4,30.06,1879.59,2026-03-12,2026-03-12,Delivered,1.0,Net Banking,0.0
+ORD0496,2026-08-26,Delhi,Pune,Ecom Express,Same Day,1142.0,30.14,218.57,2026-08-28,2026-08-31,Delayed,,Cash on Delivery,1.0
+ORD0497,2026-01-17,Lucknow,Jaipur,India Post,Standard,1418.9,3.02,2207.48,2026-01-20,2026-01-20,Delivered,,UPI,0.0
+ORD0498,2026-09-21,Lucknow,Bengaluru,DTDC,Express,319.6,19.65,209.5,2026-09-24,2026-09-22,Delivered,,Card,0.0
+ORD0499,2026-03-12,Lucknow,Hyderabad,Delhivery,Express,638.1,9.5,1714.96,2026-03-15,2026-03-14,Delivered,3.0,UPI,0.0
+ORD0500,2026-02-02,Mumbai,Ahmedabad,India Post,Same Day,1486.6,31.5,1154.61,2026-02-05,2026-02-05,Delivered,3.0,UPI,0.0
+ORD0021,2026-01-30,Jaipur,Delhi,BlueDart,Same Day,148.8,6.67,1505.81,2026-01-31,2026-02-01,Delayed,,Card,1.0
+ORD0081,2026-08-01,Pune,Jaipur,India Post,Express,1495.7,9.14,2069.61,2026-08-03,2026-08-02,Delivered,4.0,Cash on Delivery,0.0
+ORD0161,2026-02-14,Delhi,Ahmedabad,DTDC,Standard,17.3,13.55,1141.74,2026-02-18,2026-02-20,Delayed,3.0,Cash on Delivery,1.0

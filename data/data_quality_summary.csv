@@ -1,0 +1,11 @@
+metric,value
+original_rows,503
+cleaned_rows,499
+duplicate_rows_removed,3
+missing_cells_before_cleaning,184
+missing_cells_after_cleaning,92
+outliers_flagged_distance_km,0
+outliers_flagged_weight_kg,0
+outliers_flagged_shipping_cost_inr,0
+outliers_flagged_customer_rating,0
+outliers_flagged_late_delivery,0
